@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafael Ruiz-Estrada
 - 👀 I’m interested in everything coding!
-- 🌱 I’m currently learning React.js with Redux
+- 🌱 I’m currently learning React.js 
 - 📫 How to reach me: LinkedIn - Rafael Ruiz from Quincy Washington
 - Facebook - Rafael Ruiz 
 - Twitter - TechEnd50
